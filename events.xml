@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-06-23">
+  <event date="2015-07-07">
     <action type="trying">
-      My new daily activity log
+      Phoenix framework
     </action>
     <references>
-      <reference src="https://github.com/joebew42/daily-activity-log" type="source" />
+      <reference src="http://www.phoenixframework.org/" type="source" />
     </references>
   </event>
 </events>
