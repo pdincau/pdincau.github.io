@@ -9,4 +9,12 @@
       <reference src="http://www.phoenixframework.org/" type="source" />
     </references>
   </event>
+  <event date="2015-07-07">
+    <action type="studying">
+      Swift language - from page 21 to page 30
+    </action>
+    <references>
+      <reference src="https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift_Programming_Language" type="source" />
+    </references>
+  </event>
 </events>
