@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-07-07">
-    <action type="trying">
-      Phoenix framework
+  <event date="2015-07-08">
+    <action type="reading">
+      Scrum is not our saviour
     </action>
     <references>
-      <reference src="http://www.phoenixframework.org/" type="source" />
+      <reference src="http://www.google.com/url?q=http%3A%2F%2Fwww.higginsninja.net%2FBlog%2Fscrum-is-not-our-saviour%2F&sa=D&sntz=1&usg=AFQjCNEFMbcOz_7f53JA242RWevkVvXllA" type="source" />
     </references>
   </event>
   <event date="2015-07-07">
@@ -15,6 +15,14 @@
     </action>
     <references>
       <reference src="https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift_Programming_Language" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-07">
+    <action type="trying">
+      Phoenix framework
+    </action>
+    <references>
+      <reference src="http://www.phoenixframework.org/" type="source" />
     </references>
   </event>
 </events>
