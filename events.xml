@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-07-20">
+    <action type="reading">Git Disciplined</action>
+    <references>
+      <reference src="http://blog.8thlight.com/makis-otman/2015/07/08/git-disciplined.html" type="source" />
+    </references>
+  </event>
   <event date="2015-07-14">
     <action type="studying">Playing around the Phoenix Framework with a simple project</action>
     <references>
