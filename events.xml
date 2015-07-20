@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-20">
+    <action type="reading">Introducing Elixir Chapter 1</action>
+    <references>
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-20">
     <action type="reading">Sure, why not bowling in Elixir?</action>
     <references>
       <reference src="http://www.ronjeffries.com/articles/015-jul/elixir-bowling/" type="source" />
