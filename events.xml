@@ -2,7 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-22">
-    <action type="reading">Introducing Elixir Chapter 5: Communicating with Humans</action>
+    <action type="reading">Introducing Elixir Chapter 6: Lists</action>
+    <references>
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
+    </references>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
