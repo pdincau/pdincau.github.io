@@ -13,6 +13,12 @@
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
+  <event date="2015-07-22">
+    <action type="reading">Introducing Elixir Chapter 5: Communicating with Humans</action>
+    <references>
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
+    </references>
+  </event>
   <event date="2015-07-21">
     <action type="reading">Introducing Elixir Chapter 4: Logic and Recursion</action>
     <references>
