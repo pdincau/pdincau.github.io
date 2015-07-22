@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-22">
+    <action type="reading">Blue Green Deployment</action>
+    <references>
+      <reference src="http://martinfowler.com/bliki/BlueGreenDeployment.html" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-22">
     <action type="reading">CQRS and Event Sourcing for dummies</action>
     <references>
       <reference src="http://codurance.com/2015/07/18/cqrs-and-event-sourcing-for-dummies/" type="source" />
