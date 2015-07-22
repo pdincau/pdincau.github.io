@@ -2,21 +2,27 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-21">
+    <action type="reading">Introducing Elixir Chapter 4: Logic and Recursion</action>
+    <references>
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-21">
     <action type="reading">Introducing Elixir Chapter 3: Atoms, Tuples, and Pattern Matching</action>
     <references>
-      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995/ref=pd_bxgy_14_img_z" type="source" />
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
     <action type="reading">Introducing Elixir Chapter 2: Functions and Modules</action>
     <references>
-      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995/ref=pd_bxgy_14_img_z" type="source" />
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
     <action type="reading">Introducing Elixir Chapter 1: Getting Comfortable</action>
     <references>
-      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995/ref=pd_bxgy_14_img_z" type="source" />
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
