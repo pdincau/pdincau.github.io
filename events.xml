@@ -2,6 +2,15 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-23">
+    <action type="reading">Elixir: The Power of Erlang, the Joy of Ruby - Dave Thomas </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=lww1aZ-ldz0" type="video" />
+    </references>
+    <references>
+      <reference src="http://gotocon.com/dl/goto-chicago-2014/slides/DaveThomas_ElixirThePowerOfErlangTheJoyOfRuby.pdf" type="slides" />
+    </references>
+  </event>
+  <event date="2015-07-23">
     <action type="reading">Introducing Elixir Chapter 7: Name-Value Pairs</action>
     <references>
       <reference src="http://martinfowler.com/bliki/BlueGreenDeployment.html" type="source" />
