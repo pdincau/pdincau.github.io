@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-23">
-    <action type="reading">Introducing Elixir Chapter 6: Name-Value Pairs</action>
+    <action type="reading">Introducing Elixir Chapter 7: Name-Value Pairs</action>
     <references>
       <reference src="http://martinfowler.com/bliki/BlueGreenDeployment.html" type="source" />
     </references>
