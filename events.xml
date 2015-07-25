@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-24">
+    <action type="reading">Introducing Elixir Chapter 8: Higher-Order Functions and List Comprehensions</action>
+    <references>
+      <reference src="http://www.martinfowler.com/bliki/StranglerApplication.html" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-24">
     <action type="reading">Strangler application</action>
     <references>
       <reference src="http://www.martinfowler.com/bliki/StranglerApplication.html" type="source" />
