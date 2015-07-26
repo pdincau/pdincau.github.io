@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-25">
+    <action type="reading">Writing assertive code with elixir</action>
+    <references>
+      <reference src="http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-25">
     <action type="reading">Introducing Elixir Chapter 9: Playing with Processes</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
