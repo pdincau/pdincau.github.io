@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-07-26">
+    <action type="coding">String calculator kata in elixir (point 4 to do)</action>
+    <references>
+      <reference src="https://github.com/pdincau/string_calculator" type="source" />
+      <reference src="http://osherove.com/tdd-kata-1/" type="source" />
+    </references>
+  </event>
   <event date="2015-07-25">
     <action type="reading">Writing assertive code with elixir</action>
     <references>
