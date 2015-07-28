@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-07-27">
+    <action type="studying">Learning some stuff about testing in elixir</action>
+    <references>
+      <reference src="https://gist.github.com/pdincau/08f7b2fac39088c87b75" type="source" />
+    </references>
+  </event>
   <event date="2015-07-26">
     <action type="coding">String calculator kata in elixir (point 4 to do)</action>
     <references>
