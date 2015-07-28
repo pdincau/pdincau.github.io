@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-25">
-    <action type="reading">Introducing Elixir Chapter 8: Exceptions, Errors, and Debugging</action>
+    <action type="reading">Introducing Elixir Chapter 10: Exceptions, Errors, and Debugging</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
