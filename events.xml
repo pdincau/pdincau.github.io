@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-07-30">
+    <action type="reading">Introducing Elixir Chapter 12: Getting Started with OTP</action>
+    <references>
+      <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
+    </references>
+  </event>
   <event date="2015-07-28">
     <action type="reading">gen_server and init</action>
     <references>
