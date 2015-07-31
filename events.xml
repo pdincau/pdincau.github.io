@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-31">
+    <action type="reading">Programming Elixir: Take the read Pill</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580/ref=pd_sim_14_1?ie=UTF8&refRID=0JMJBADP878V7YCEA1BC" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-31">
     <action type="reading">Introducing Elixir Chapter 13: Using Macros to Extend Elixir</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
