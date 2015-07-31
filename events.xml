@@ -2,6 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-31">
+    <action type="reading">Canary Release</action>
+    <references>
+      <reference src="http://martinfowler.com/bliki/CanaryRelease.html" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-31">
+    <action type="reading">Um, Agile Software Development requires Software Development</action>
+    <references>
+      <reference src="http://ronjeffries.com/articles/015-jul/um-software-development/" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-31">
     <action type="reading">Programming Elixir: Take the read Pill</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
