@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-07-31">
+    <action type="reading">Programming Elixir: Pattern Matching</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
+    </references>
+  </event>
+  <event date="2015-07-31">
     <action type="reading">Canary Release</action>
     <references>
       <reference src="http://martinfowler.com/bliki/CanaryRelease.html" type="source" />
