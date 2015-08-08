@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-08-07">
+    <action type="reading">Phoenix Server</action>
+    <references>
+      <reference src="http://www.martinfowler.com/bliki/PhoenixServer.html" type="source" />
+    </references>
+  </event>
   <event date="2015-08-06">
     <action type="reading">Programming Elixir: Modules and Named Functions</action>
     <references>
