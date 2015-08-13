@@ -1,80 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-08-13">
+    <action type="read">Snowflakes Server</action>
+    <references>
+      <reference src="http://martinfowler.com/bliki/SnowflakeServer.html" type="source" />
+    </references>
+  </event>
   <event date="2015-08-07">
-    <action type="reading">Phoenix Server</action>
+    <action type="read">Phoenix Server</action>
     <references>
       <reference src="http://www.martinfowler.com/bliki/PhoenixServer.html" type="source" />
     </references>
   </event>
   <event date="2015-08-06">
-    <action type="reading">Programming Elixir: Modules and Named Functions</action>
+    <action type="read">Programming Elixir: Modules and Named Functions</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-08-01">
-    <action type="reading">Programming Elixir: Anonymous Functions</action>
+    <action type="read">Programming Elixir: Anonymous Functions</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-08-01">
-    <action type="reading">Programming Elixir: Elixir Basics</action>
+    <action type="read">Programming Elixir: Elixir Basics</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-08-01">
-    <action type="reading">Programming Elixir: Immutability </action>
+    <action type="read">Programming Elixir: Immutability </action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-07-31">
-    <action type="reading">Programming Elixir: Pattern Matching</action>
+    <action type="read">Programming Elixir: Pattern Matching</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-07-31">
-    <action type="reading">Canary Release</action>
+    <action type="read">Canary Release</action>
     <references>
       <reference src="http://martinfowler.com/bliki/CanaryRelease.html" type="source" />
     </references>
   </event>
   <event date="2015-07-31">
-    <action type="reading">Um, Agile Software Development requires Software Development</action>
+    <action type="read">Um, Agile Software Development requires Software Development</action>
     <references>
       <reference src="http://ronjeffries.com/articles/015-jul/um-software-development/" type="source" />
     </references>
   </event>
   <event date="2015-07-31">
-    <action type="reading">Programming Elixir: Take the read Pill</action>
+    <action type="read">Programming Elixir: Take the read Pill</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-07-31">
-    <action type="reading">Introducing Elixir Chapter 13: Using Macros to Extend Elixir</action>
+    <action type="read">Introducing Elixir Chapter 13: Using Macros to Extend Elixir</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-30">
-    <action type="reading">Introducing Elixir Chapter 12: Getting Started with OTP</action>
+    <action type="read">Introducing Elixir Chapter 12: Getting Started with OTP</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-28">
-    <action type="reading">gen_server and init</action>
+    <action type="read">gen_server and init</action>
     <references>
       <reference src="http://erlang.org/pipermail/erlang-questions/2015-July/085314.html" type="source" />
     </references>
   </event>
   <event date="2015-07-28">
-    <action type="reading">Introducing Elixir Chapter 10: Exceptions, Errors, and Debugging</action>
+    <action type="read">Introducing Elixir Chapter 10: Exceptions, Errors, and Debugging</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
@@ -93,13 +99,13 @@
     </references>
   </event>
   <event date="2015-07-25">
-    <action type="reading">Writing assertive code with elixir</action>
+    <action type="read">Writing assertive code with elixir</action>
     <references>
       <reference src="http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir" type="source" />
     </references>
   </event>
   <event date="2015-07-25">
-    <action type="reading">Introducing Elixir Chapter 9: Playing with Processes</action>
+    <action type="read">Introducing Elixir Chapter 9: Playing with Processes</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
@@ -111,13 +117,13 @@
     </references>
   </event>
   <event date="2015-07-24">
-    <action type="reading">Introducing Elixir Chapter 8: Higher-Order Functions and List Comprehensions</action>
+    <action type="read">Introducing Elixir Chapter 8: Higher-Order Functions and List Comprehensions</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-24">
-    <action type="reading">Strangler application</action>
+    <action type="read">Strangler application</action>
     <references>
       <reference src="http://www.martinfowler.com/bliki/StranglerApplication.html" type="source" />
     </references>
@@ -136,67 +142,67 @@
     </references>
   </event>
   <event date="2015-07-23">
-    <action type="reading">Introducing Elixir Chapter 7: Name-Value Pairs</action>
+    <action type="read">Introducing Elixir Chapter 7: Name-Value Pairs</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-22">
-    <action type="reading">Blue Green Deployment</action>
+    <action type="read">Blue Green Deployment</action>
     <references>
       <reference src="http://martinfowler.com/bliki/BlueGreenDeployment.html" type="source" />
     </references>
   </event>
   <event date="2015-07-22">
-    <action type="reading">CQRS and Event Sourcing for dummies</action>
+    <action type="read">CQRS and Event Sourcing for dummies</action>
     <references>
       <reference src="http://codurance.com/2015/07/18/cqrs-and-event-sourcing-for-dummies/" type="source" />
     </references>
   </event>
   <event date="2015-07-22">
-    <action type="reading">Introducing Elixir Chapter 6: Lists</action>
+    <action type="read">Introducing Elixir Chapter 6: Lists</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-22">
-    <action type="reading">Introducing Elixir Chapter 5: Communicating with Humans</action>
+    <action type="read">Introducing Elixir Chapter 5: Communicating with Humans</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-21">
-    <action type="reading">Introducing Elixir Chapter 4: Logic and Recursion</action>
+    <action type="read">Introducing Elixir Chapter 4: Logic and Recursion</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-21">
-    <action type="reading">Introducing Elixir Chapter 3: Atoms, Tuples, and Pattern Matching</action>
+    <action type="read">Introducing Elixir Chapter 3: Atoms, Tuples, and Pattern Matching</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
-    <action type="reading">Introducing Elixir Chapter 2: Functions and Modules</action>
+    <action type="read">Introducing Elixir Chapter 2: Functions and Modules</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
-    <action type="reading">Introducing Elixir Chapter 1: Getting Comfortable</action>
+    <action type="read">Introducing Elixir Chapter 1: Getting Comfortable</action>
     <references>
       <reference src="http://www.amazon.com/Introducing-Elixir-Getting-Functional-Programming/dp/1449369995" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
-    <action type="reading">Sure, why not bowling in Elixir?</action>
+    <action type="read">Sure, why not bowling in Elixir?</action>
     <references>
       <reference src="http://www.ronjeffries.com/articles/015-jul/elixir-bowling/" type="source" />
     </references>
   </event>
   <event date="2015-07-20">
-    <action type="reading">Git Disciplined</action>
+    <action type="read">Git Disciplined</action>
     <references>
       <reference src="http://blog.8thlight.com/makis-otman/2015/07/08/git-disciplined.html" type="source" />
     </references>
@@ -208,7 +214,7 @@
     </references>
   </event>
   <event date="2015-07-08">
-    <action type="reading">
+    <action type="read">
       Scrum is not our saviour
     </action>
     <references>
