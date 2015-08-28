@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-08-28">
+    <action type="read">Walking skeleton</action>
+    <references>
+      <reference src="http://alistair.cockburn.us/Walking+skeleton" type="source" />
+    </references>
+  </event>
+  <event date="2015-08-28">
     <action type="read">All evidence points to oop being bullshit</action>
     <references>
       <reference src="http://blog.pivotal.io/labs/labs/all-evidence-points-to-oop-being-bullshit" type="source" />
