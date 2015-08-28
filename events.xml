@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-08-28">
+    <action type="read">All evidence points to oop being bullshit</action>
+    <references>
+      <reference src="http://blog.pivotal.io/labs/labs/all-evidence-points-to-oop-being-bullshit" type="source" />
+    </references>
+  </event>
   <event date="2015-08-13">
     <action type="read">Snowflakes Server</action>
     <references>
