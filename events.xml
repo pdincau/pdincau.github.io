@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-09-3">
+    <action type="read">cqrs command query responsibility segregation</action>
+    <references>
+      <reference src="http://www.slideshare.net/brianritchie1/cqrs-command-query-responsibility-segregation" type="source" />
+    </references>
+  </event>
   <event date="2015-08-28">
     <action type="read">Walking skeleton</action>
     <references>
