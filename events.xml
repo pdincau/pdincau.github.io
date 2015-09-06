@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-09-6">
+    <action type="read">Agile DDD CQRS</action>
+    <references>
+      <reference src="http://www.slideshare.net/jeppec/agile-ddd-cqrs?related=3" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-6">
     <action type="read">Chapter 11: Strings and Binaries</action>
     <references>
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
