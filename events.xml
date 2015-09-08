@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-09-8">
+    <action type="read">Guida alla retrospettiva III parte: Come far fallire una retrospettiva</action>
+    <references>
+      <reference src="http://www2.mokabyte.it/cms/article.run?permalink=mb196_Retrospective-3" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-8">
     <action type="read">Agile retrospectives: the prime directive</action>
     <references>
       <reference src="http://www.akashb.com/blog/2012/05/13/agile-retrospectives-the-prime-directive/" type="source" />
