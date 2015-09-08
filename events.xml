@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-09-8">
+    <action type="read">Agile retrospectives: the prime directive</action>
+    <references>
+      <reference src="http://www.akashb.com/blog/2012/05/13/agile-retrospectives-the-prime-directive/" type="source" />
+    </references>
+  </event>
   <event date="2015-09-6">
     <action type="read">Agile DDD CQRS</action>
     <references>
