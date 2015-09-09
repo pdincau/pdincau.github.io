@@ -176,7 +176,7 @@
       <reference src="http://www.martinfowler.com/bliki/StranglerApplication.html" type="source" />
     </references>
   </event>
-  <event>
+  <event date="2015-07-24">
     <action type="watching">Elixir Conf 2014 - Keynote - Think Different by Dave Thomas</action>
     <references>
       <reference src="https://www.youtube.com/watch?v=5hDVftaPQwY" type="video" />
