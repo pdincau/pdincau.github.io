@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-09-10">
+    <action type="discussed">TDD (mocks/no mocks) in Elixir</action>
+    <references>
+      <reference src="https://groups.google.com/forum/#!topic/elixir-lang-talk/oYXyvEUi64Y" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-10">
     <action type="coded">Following exercise of Programming Elixir</action>
     <references>
       <reference src="https://github.com/pdincau/issues" type="source" />
