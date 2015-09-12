@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-09-12">
+    <action type="coded">Following exercise of Programming Elixir</action>
+    <references>
+      <reference src="https://github.com/pdincau/issues" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-12">
+    <action type="read">Reducing coupling</action>
+    <references>
+      <reference src="http://martinfowler.com/ieeeSoftware/coupling.pdf" type="source" />
+    </references>
+  </event>
   <event date="2015-09-11">
     <action type="coded">Fixing issue #18 on gcm-erlang</action>
     <references>
