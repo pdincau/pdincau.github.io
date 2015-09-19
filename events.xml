@@ -7,6 +7,24 @@
       <reference src="http://www.slideshare.net/justinxreese/elixir-otp-1" type="source" />
     </references>
   </event>
+  <event date="2015-09-18">
+    <action type="read">Programming Elixir: OTP: Servers</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-18">
+    <action type="read">Programming Elixir: Nodes—The Key To Distributing Services</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-18">
+    <action type="read">Programming Elixir: Working with multiple Processes</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
+    </references>
+  </event>
   <event date="2015-09-17">
     <action type="read">Elixir – Peeking into Elixir's Processes, OTP and Supervisors</action>
     <references>
