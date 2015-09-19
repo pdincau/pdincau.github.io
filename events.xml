@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-09-17">
-    <action type="read">Elixir – Peeking into Elixir's Processes, OTP and Supervisorsa</action>
+  <event date="2015-09-18">
+    <action type="read">Concurrency in Elixir with OTP</action>
     <references>
-      <reference src="http://www.slideshare.net/benjamintanweihao/elixir-hnp?qid=3ad9cab2-4185-4ffd-b01f-4ad2d4ceddc0&v=qf1&b=&from_search=22" type="source" />
+      <reference src="http://www.slideshare.net/justinxreese/elixir-otp-1" type="source" />
+    </references>
+  </event>
+  <event date="2015-09-17">
+    <action type="read">Elixir – Peeking into Elixir's Processes, OTP and Supervisors</action>
+    <references>
+      <reference src="http://www.slideshare.net/benjamintanweihao/elixir-hnp" type="source" />
     </references>
   </event>
   <event date="2015-09-12">
