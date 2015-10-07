@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-10-07">
+    <action type="read">Programming Elixir: OTP: Applications</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
+    </references>
+  </event>
   <event date="2015-09-28">
     <action type="read">Beck design rules</action>
     <references>
