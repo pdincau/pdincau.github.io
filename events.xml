@@ -7,6 +7,12 @@
       <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
+  <event date="2015-10-09">
+    <action type="read">Elixir plug unveiled</action>
+    <references>
+      <reference src=" https://medium.com/@kansi/elixir-plug-unveiled-bf354e364641" type="source" />
+    </references>
+  </event>
   <event date="2015-09-28">
     <action type="read">Beck design rules</action>
     <references>
