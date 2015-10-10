@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-10-07">
-    <action type="read">Programming Elixir: OTP: Applications</action>
+  <event date="2015-10-10">
+    <action type="read">Working Effectively with Legacy Tests</action>
     <references>
-      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
+      <reference src="http://natpryce.com/articles/000813.html" type="source" />
     </references>
   </event>
   <event date="2015-10-09">
     <action type="read">Elixir plug unveiled</action>
     <references>
-      <reference src=" https://medium.com/@kansi/elixir-plug-unveiled-bf354e364641" type="source" />
+      <reference src="https://medium.com/@kansi/elixir-plug-unveiled-bf354e364641" type="source" />
+    </references>
+  </event>
+  <event date="2015-10-07">
+    <action type="read">Programming Elixir: OTP: Applications</action>
+    <references>
+      <reference src="http://www.amazon.it/Programming-Elixir-Functional-Concurrent-Pragmatic-ebook/dp/B00PKTGM9O" type="source" />
     </references>
   </event>
   <event date="2015-09-28">
