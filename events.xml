@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-09">
+    <action type="read">Getting Business Advantage from Continuous Delivery</action>
+    <references>
+      <reference src="http://www.infoq.com/news/2015/10/business-continuous-delivery" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-09">
     <action type="read">Why software architects should lead continuous delivery</action>
     <references>
       <reference src="http://techbeacon.com/why-software-architects-should-lead-continuous-delivery" type="source" />
