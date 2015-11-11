@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-11">
+    <action type="read">Thoughts on Mocks</action>
+    <references>
+      <reference src="http://www.ronjeffries.com/articles/015-11/tdd-mocks/" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-11">
     <action type="read">Mocks and explicit contracts</action>
     <references>
       <reference src="http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/" type="source" />
