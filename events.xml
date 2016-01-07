@@ -2,11 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-01-07">
+    <action type="read">Microservices with Apache Camel - simple example</action>
+    <references>
+      <reference src="http://blog.kopis.de/2015/06/14/microservices-with-apache-camel/" type="source" />
+    </references>
+  </event>
+  <event date="2016-01-07">
     <action type="read">Seven Tips to Plan Your Next Meeting with Clients</action>
     <references>
       <reference src="https://www.thoughtworks.com/insights/blog/seven-tips-plan-your-next-meeting-clients" type="source" />
     </references>
-  </event>  <event date="2016-01-03">
+  </event>
+  <event date="2016-01-03">
     <action type="read">The Makings of Enduring Organizational Culture</action>
     <references>
       <reference src="https://www.thoughtworks.com/insights/blog/makings-enduring-organizational-culture" type="source" />
