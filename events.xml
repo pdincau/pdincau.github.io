@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-01-10">
+    <action type="read">Deploying Spring Boot Applications</action>
+    <references>
+      <reference src="https://spring.io/blog/2014/03/07/deploying-spring-boot-applications" type="source" />
+    </references>
+  </event>
   <event date="2016-01-07">
     <action type="read">Microservices with Apache Camel - simple example</action>
     <references>
