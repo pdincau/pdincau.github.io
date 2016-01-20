@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-01-20">
+    <action type="read">Ditching Scrum for Kanban — The best decision we’ve made as a team</action>
+    <references>
+      <reference src="https://medium.com/cto-school/ditching-scrum-for-kanban-the-best-decision-we-ve-made-as-a-team-cd1167014a6f#.xaz5ofx48" type="source" />
+    </references>
+  </event>
   <event date="2016-01-18">
     <action type="read">Microservices Design Principles</action>
     <references>
