@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-26">
+    <action type="read">Martin Fowler: Microservices</action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=wgdBVIX9ifA" type="source" />
+    </references>
+  </event>
   <event date="2016-02-20">
     <action type="read">Java Bootstrap: Dropwizard vs. Spring Boot</action>
     <references>
