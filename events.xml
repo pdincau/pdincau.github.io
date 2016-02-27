@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-27">
+    <action type="watched">Martin Fowler: Workflows of refactoring</action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=vqEg37e4Mkw" type="source" />
+    </references>
+  </event>
   <event date="2016-02-26">
-    <action type="read">Martin Fowler: Microservices</action>
+    <action type="watched">Martin Fowler: Microservices</action>
     <references>
       <reference src="https://www.youtube.com/watch?v=wgdBVIX9ifA" type="source" />
     </references>
