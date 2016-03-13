@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-13">
+    <action type="read">The Pros and Cons of MongoDB</action>
+    <references>
+      <reference src="http://halls-of-valhalla.org/beta/articles/the-pros-and-cons-of-mongodb,45/" type="source" />
+    </references>
+  </event>
+  <event date="2016-03-13">
+    <action type="read">Why You Should Never Use MongoDB</action>
+    <references>
+      <reference src="http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/" type="source" />
+    </references>
+  </event>
   <event date="2016-03-09">
     <action type="read">Which Integration Framework Should You Use – Spring Integration, Mule ESB or Apache Camel?</action>
     <references>
